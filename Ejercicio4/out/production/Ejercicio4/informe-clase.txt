@@ -1,0 +1,3 @@
+Número de estudiantes: 0
+Edad media: 0
+Nota promedio: 

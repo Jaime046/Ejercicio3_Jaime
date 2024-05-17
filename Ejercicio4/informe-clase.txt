@@ -1,0 +1,3 @@
+Número de estudiantes: 20
+Edad media: 25
+Nota promedio: 
